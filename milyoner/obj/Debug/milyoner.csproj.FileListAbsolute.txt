@@ -1,0 +1,13 @@
+C:\Users\baris\source\repos\milyoner\bin\Debug\milyoner.exe.config
+C:\Users\baris\source\repos\milyoner\bin\Debug\milyoner.exe
+C:\Users\baris\source\repos\milyoner\bin\Debug\milyoner.pdb
+C:\Users\baris\source\repos\milyoner\obj\Debug\milyoner.csproj.AssemblyReference.cache
+C:\Users\baris\source\repos\milyoner\obj\Debug\milyoner.Form1.resources
+C:\Users\baris\source\repos\milyoner\obj\Debug\milyoner.Properties.Resources.resources
+C:\Users\baris\source\repos\milyoner\obj\Debug\milyoner.csproj.GenerateResource.cache
+C:\Users\baris\source\repos\milyoner\obj\Debug\milyoner.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\milyoner\obj\Debug\milyoner.exe
+C:\Users\baris\source\repos\milyoner\obj\Debug\milyoner.pdb
+C:\Users\baris\source\repos\milyoner\bin\Debug\tr-TR\milyoner.resources.dll
+C:\Users\baris\source\repos\milyoner\obj\Debug\milyoner.Form1.tr-TR.resources
+C:\Users\baris\source\repos\milyoner\obj\Debug\tr-TR\milyoner.resources.dll
